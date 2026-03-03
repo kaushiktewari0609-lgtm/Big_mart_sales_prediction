@@ -58,7 +58,7 @@ Random Forest Regressor performed better compared to Linear Regression.
 
 1) Clone the repository:
 </> Bash
-git clone https://github.com/kaushiktewari0609-lgtm/Big_mart_sales_prediction.git
+git clone https://github.com/kaushiktewari0609-lgtm/big-mart-sales-prediction.git
 
 2) Install required libraries:
 </> Bash
